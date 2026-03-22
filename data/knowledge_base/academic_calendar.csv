@@ -1,0 +1,62 @@
+Program,Year,Semester,Event,From,To,Duration
+,,,,,,
+BTech,2025-2026,I Year,Induction Program,04-08-2025,23-08-2025,3 Weeks
+BTech,2025-2026,I Year I Sem,Class Work Start,25-08-2025,,
+BTech,2025-2026,I Year I Sem,Instruction Period,25-08-2025,20-12-2025,17 Weeks
+BTech,2025-2026,I Year I Sem,Mid Exam 1,21-10-2025,23-10-2025,3 Days
+BTech,2025-2026,I Year I Sem,Mid Exam 2,18-12-2025,20-12-2025,3 Days
+BTech,2025-2026,I Year I Sem,Lab Exams,22-12-2025,27-12-2025,1 Week
+BTech,2025-2026,I Year I Sem,Theory Exams,29-12-2025,09-01-2026,2 Weeks
+BTech,2025-2026,I Year I Sem,Results,04-02-2026,,
+,,,,,,
+BTech,2025-2026,II Year I Sem,Class Work Start,30-06-2025,,
+BTech,2025-2026,II Year I Sem,Instruction Period,30-06-2025,29-10-2025,18 Weeks
+BTech,2025-2026,II Year I Sem,Mid Exam 1,18-08-2025,20-08-2025,3 Days
+BTech,2025-2026,II Year I Sem,Mid Exam 2,27-10-2025,29-10-2025,3 Days
+BTech,2025-2026,II Year I Sem,Lab Exams,30-10-2025,08-11-2025,10 Days
+BTech,2025-2026,II Year I Sem,Theory Exams,10-11-2025,22-11-2025,2 Weeks
+,,,,,,
+BTech,2025-2026,III Year I Sem,Class Work Start,07-07-2025,,
+BTech,2025-2026,III Year I Sem,Instruction Period,07-07-2025,31-10-2025,17 Weeks
+BTech,2025-2026,III Year I Sem,Mid Exam 1,28-08-2025,30-08-2025,3 Days
+BTech,2025-2026,III Year I Sem,Mid Exam 2,29-10-2025,31-10-2025,3 Days
+BTech,2025-2026,III Year I Sem,Lab Exams,01-11-2025,09-11-2025,9 Days
+BTech,2025-2026,III Year I Sem,Theory Exams,10-11-2025,22-11-2025,2 Weeks
+,,,,,,
+BTech,2025-2026,IV Year I Sem,Class Work Start,07-07-2025,,
+BTech,2025-2026,IV Year I Sem,Instruction Period,07-07-2025,31-10-2025,17 Weeks
+BTech,2025-2026,IV Year I Sem,Mid Exam 1,28-08-2025,30-08-2025,3 Days
+BTech,2025-2026,IV Year I Sem,Mid Exam 2,29-10-2025,31-10-2025,3 Days
+BTech,2025-2026,IV Year I Sem,Theory Exams,10-11-2025,28-11-2025,2 Weeks
+,,,,,,
+MCA,2025-2026,MCA I,Class Work Start,18-08-2025,,
+MCA,2025-2026,MCA I,Instruction Period,18-08-2025,13-12-2025,17 Weeks
+MCA,2025-2026,MCA I,Mid Exam 1,13-10-2025,15-10-2025,3 Days
+MCA,2025-2026,MCA I,Mid Exam 2,10-12-2025,12-12-2025,3 Days
+MCA,2025-2026,MCA I,Theory Exams,19-12-2025,03-01-2026,2 Weeks
+,,,,,,
+MCA,2025-2026,MCA II,Class Work Start,05-01-2026,,
+MCA,2025-2026,MCA II,Instruction Period,05-01-2026,02-05-2026,17 Weeks
+MCA,2025-2026,MCA II,Mid Exam 1,02-03-2026,04-03-2026,3 Days
+MCA,2025-2026,MCA II,Mid Exam 2,30-04-2026,02-05-2026,3 Days
+,,,,,,
+MCA,2025-2026,MCA III,Class Work Start,28-07-2025,,
+MCA,2025-2026,MCA III,Instruction Period,28-07-2025,23-11-2025,17 Weeks
+MCA,2025-2026,MCA III,Mid Exam 1,18-09-2025,20-09-2025,3 Days
+MCA,2025-2026,MCA III,Mid Exam 2,20-11-2025,22-11-2025,3 Days
+,,,,,,
+MTech,2025-2026,MTech I,Class Work Start,13-10-2025,,
+MTech,2025-2026,MTech I,Instruction Period,13-10-2025,31-01-2026,16 Weeks
+MTech,2025-2026,MTech I,Mid Exam 1,03-12-2025,05-12-2025,3 Days
+MTech,2025-2026,MTech I,Mid Exam 2,29-01-2026,31-01-2026,3 Days
+,,,,,,
+MTech,2025-2026,MTech II,Class Work Start,16-02-2026,,
+MTech,2025-2026,MTech II,Instruction Period,16-02-2026,02-05-2026,11 Weeks
+MTech,2025-2026,MTech II,Internship,04-05-2026,27-06-2026,8 Weeks
+,,,,,,
+MTech,2025-2026,MTech III,Class Work Start,04-08-2025,,
+MTech,2025-2026,MTech III,Instruction Period,04-08-2025,30-11-2025,17 Weeks
+MTech,2025-2026,MTech III,Project Review 1,31-08-2025,06-09-2025,1 Week
+,,,,,,
+MTech,2025-2026,MTech IV,Project Work,08-12-2025,05-04-2026,17 Weeks
+MTech,2025-2026,MTech IV,Final Viva,06-04-2026,25-04-2026,3 Weeks

@@ -1,0 +1,39 @@
+civil 
+The Civil Engineering department, established in 1946, offers B.Tech and M.Tech programs with well-equipped laboratories and strong research facilities supporting MS and PhD studies.
+
+It focuses on advanced research areas like structural engineering, concrete technology, and modern techniques, while providing good computing and internet facilities.
+HOD Name : 
+No.of faculty :
+subjects :Surveying,StrengthofMaterials,FluidMechanics,Building Planning and Drawing,ConcreteTechnology
+EEE
+The Electrical Engineering department, established in 1946, offers B.Tech and multiple M.Tech programs with strong research facilities for Ph.D. studies and specializations in power systems, control systems, and industrial drives.
+
+It is equipped with advanced laboratories, software tools, and learning resources, supporting both academic and research activities.
+HOD name : 
+no.of faculty :
+subjects : ElectromagneticFieldTheorY,ElectricalCircuitAnalysis,DCMachines&Transformers,ControlSystems
+Mechanical 
+The Mechanical Engineering department, established in 1946, offers a B.Tech program with an intake of 60 students and multiple M.Tech specializations including Heat Power, Energy Systems, I.C. Engines, and Product Design.
+It also provides strong research facilities supporting Ph.D. programs and advanced technical studies.
+HOD name :
+no.of faculty :
+subjects : Thermodynamics,MechanicsofSolids,MaterialScienceandMetallurgy,Manufacturingprocesses
+ECE
+The Electronics and Communication Engineering department, established in 1974, offers a UG program and PG specializations like DECS, VLSI, and IoT, with a strong focus on evolving technologies.
+The department also promotes self-learning through initiatives like ECHO and aims to develop both technical skills and overall personality of students.
+HOD name : 
+no.of faculty :
+subjects :ElectronicDevicesandCircuits,DigitalCircuitDesign,LinearControlSystems,EMWavesandTransmissionLines
+CSE
+The Computer Science Engineering department, established in 1989, offers B.Tech, MCA, and multiple M.Tech programs including AI and Software Engineering, with significant growth in infrastructure and student intake.
+HOD name :
+no.of faculty :
+subjects :OOPs through Java,Data Stuctures and Algorithms,DBMS,OS,python
+Maths,Physics,Chemistry
+The departments of Mathematics, Physics, and Chemistry, established in 1946, form the core foundation for all engineering disciplines, providing essential analytical, scientific, and problem-solving skills.
+
+👉 They offer strong academic support through well-structured curricula, experienced faculty, and well-equipped laboratories and research facilities funded by organizations like UGC and DST.
+humanity
+The Department of Humanities and Social Sciences, established in 1974, supports academic and research excellence through disciplines like English, Economics, Commerce, and Management.
+
+👉 It provides practical skills through communicative English labs and subjects like management and entrepreneurship, helping students in placements and competitive exams.
